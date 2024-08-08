@@ -8,7 +8,9 @@ Welcome to my GitHub profile!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/duydev) [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/duydev) [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@akitect)
 
-![Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif) 
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" style="width: 100%; height: auto;">
+</div>
 
 #### Skills
 
